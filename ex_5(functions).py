@@ -16,4 +16,3 @@ def show_whole_employee_info(name):
 
 
 show_whole_employee_info("Nshan")
-print(5)
